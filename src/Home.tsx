@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <>
       <nav>
-        <Link to="/lucrari">Lucrarile mele</Link>
+        <Link to="/lucrari" className='nav-link'>Lucrarile mele</Link>
         <Link to="/contact">contacteaza-ma</Link>
       </nav>
       <h1>Portofoliul meu</h1>

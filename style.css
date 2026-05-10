@@ -1,4 +1,4 @@
-body { background-color:#ff0000 ; }
+body { background-color:#029aff ; }
 p { color: white; }
 h1 { color: white; }
 h2 { color: black; }
@@ -14,6 +14,7 @@ nav {
  }
 
 .nav-link {
+   margin-left: 15px;
     margin-right: 15px;
  }
 
